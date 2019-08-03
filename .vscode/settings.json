@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\vladg\\Documents\\Visual Studio Code SFDX\\ApexSpecialistProject"
+		},
+		{
+			"name": "ApexSpecialistSuperbadge",
+			"path": "C:\\Users\\vladg\\Documents\\GitHub\\ApexSpecialistSuperbadge\\ApexSpecialistSuperbadge"
+		}
+	],
+	"settings": {
+		"salesforcedx-vscode-core.push-or-deploy-on-save.enabled": true,
+		"eslint.nodePath": "c:\\Users\\vladg\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-46.8.0\\node_modules"
+	},
+	"eslint.nodePath": "c:\\Users\\vladg\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-46.8.0\\node_modules"
+}
